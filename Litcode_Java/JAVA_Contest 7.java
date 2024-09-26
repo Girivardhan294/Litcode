@@ -1,3 +1,5 @@
+// Sum of Variations in the given object Count
+
 import java.util.Scanner;
 public class Main {
     public static int countCombinations(int m, int r, int target) {
