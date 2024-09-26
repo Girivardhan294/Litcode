@@ -1,3 +1,5 @@
+// W_GoatLatin
+
 import java.util.Scanner;
 public class Main {
     public static String convertToGoatLatin(String sentence) {
