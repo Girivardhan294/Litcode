@@ -1,3 +1,5 @@
+// Maximum Alternating subsequence sum
+
 import java.util.Scanner;
 public class Main {
     public static long maxAlternatingSum(int[] nums) {
